@@ -17,6 +17,7 @@ KartoFlane: Updated modloader, modding API and mod utils - https://github.com/ka
 Lemonymous: ReplaceRepair - http://www.subsetgames.com/forum/viewtopic.php?f=26&t=33470
 
 INSTALLATION
+
 After installing the modloader, just drop the "mezzpilots" folder under (root directory)/mods and you should be set.
 
 If you'd like to unlock these pilots immediately, dive into your profile.lua and add
@@ -24,6 +25,7 @@ If you'd like to unlock these pilots immediately, dive into your profile.lua and
 in the list ["Pilots"] surrounded by brackets on line 11.
 
 Known ISSUES:
+
 - This mod will not work with an existing timeline. You must finish or restart your current timeline to use it.
 - This mod will likely be incompatible with most mods that affect pawn movespeed.  If any release in the future I'll make compatibility patches.
 - This mod probably has some weird behaviors when combined with modded overwatch/reflexive fire abilities (i.e. evolved vek), I haven't been able to test this yet.
